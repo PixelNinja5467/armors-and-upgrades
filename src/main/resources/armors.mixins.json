@@ -1,12 +1,13 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "com.pixelninja.armors.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
+    "HoglinBrainMixin",
+    "HoglinEntityMixin"
   ],
   "client": [
-    "ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
