@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "com.pixelninja.armors.Armors"
+    ],
+    "client": [
+      "com.pixelninja.armors.client.ArmorsClient"
     ]
   },
   "mixins": [

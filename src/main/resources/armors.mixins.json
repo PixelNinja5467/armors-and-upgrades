@@ -4,8 +4,6 @@
   "package": "com.pixelninja.armors.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
-    "HoglinBrainMixin",
-    "HoglinEntityMixin"
   ],
   "client": [
   ],
